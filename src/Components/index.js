@@ -5,10 +5,10 @@ import Form from './Form'
 function ContactApp() {
   const [kisiler, setKisi] = useState([
     {fullname: "Emirhan",
-    phone_number: "0553 803 1234"
+    phone_number: "0111 111 11 11"
   },
   {fullname: "Tuğba",
-  phone_number: "0554 875 1838"
+  phone_number: "0222 222 22 22"
   },
   {fullname: "Ahmet",
   phone_number: "*#31*#"
